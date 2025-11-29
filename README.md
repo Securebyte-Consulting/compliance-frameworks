@@ -338,7 +338,7 @@ npm run validate:mappings mappings/popia-to-iso27001.json
 
 ## 🔗 Related Projects
 
-- **Main Platform:** [securebyte](https://github.com/securebyte-consulting/securebyte) (private)
+- **Main Platform:** [securebyte](private)
 - **CLI Tool:** [securebyte-cli](https://github.com/securebyte-consulting/securebyte-cli)
 - **Documentation:** [securebyte-docs](https://github.com/securebyte-consulting/securebyte-docs)
 - **Integrations:** [securebyte-integrations](https://github.com/securebyte-consulting/securebyte-integrations) (planned)
@@ -357,9 +357,9 @@ This project is part of the [SecureByte](https://github.com/securebyte-consultin
 
 Questions? Suggestions? Want to contribute?
 
-- **Email:** hello@securebyte.co.za
-- **Twitter:** [@securebyte](https://twitter.com/securebyte)
-- **LinkedIn:** [SecureByte Consulting](https://linkedin.com/company/securebyte-consulting)
+- **Email:** securebyte.consulting@gmail.com
+- **Twitter:** [coming soon]()
+- **LinkedIn:** [coming soon]()
 
 ## 📄 License
 
@@ -454,4 +454,3 @@ Framework data is regularly reviewed and updated to reflect latest versions.
 **Star this repository** to be notified when we launch! ⭐
 
 **Target Release:** Q3 2026
-```
